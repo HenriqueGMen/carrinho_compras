@@ -3,10 +3,10 @@
 
 ## :computer: Sobre o projeto
 
-Projeto para treinar os conceitos aprendido no módulo de Contextos e hooks.
+Projeto para realizar a implementação de hooks em uma pagina de compras.
 
 
-## :pincel: Layout do projeto
+## :star: Layout do projeto
 
 - Tela inicial
 <p align=center>
@@ -29,6 +29,8 @@ Projeto para treinar os conceitos aprendido no módulo de Contextos e hooks.
 - Exibição de mensagens de erro;
 - Entre outros.
 
+
+### Visite meu linkedin:
   <a href="https://www.linkedin.com/in/carlos-henrique-gomes-mendon%C3%A7a-8614aa93/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
